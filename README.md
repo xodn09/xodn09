@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="left">👋 Hi There</h1>
 
-<!--
-**xodn09/xodn09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d51,100:000000&height=200&section=header&text=xodn09&fontSize=60&fontColor=f0e9d2&animation=fadeIn&fontAlignY=35" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">간단한 소개글</h3>
+
+<br>
+
+<h3 align="left">🛠️ Skill</h3>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
+<div align="center">
+
+</div>
+
+<br>
+
+<h3 align="left">🧰 Tool & IDE</h3>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
+<div align="center">
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xodn09&show_icons=true&theme=default" alt="Wooseong's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xodn09&layout=compact" alt="Top Langs"/>
+</p>
+
+<br>
+
+---
+
+## 🧑‍💻 About Me
+<br>
+
+
+**[The Last Heir](https://github.com/Team-TheLastHeir)**  
+This Project is a narrative-oriented log-like action RPG game.
+Click to check it out!
+
+---
+
+## 📬 To connect
+<br>
+
+<p align="center">
+</p>
