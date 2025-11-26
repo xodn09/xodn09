@@ -27,10 +27,7 @@
 ## 📊 GitHub Stats
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xodn09&show_icons=true&theme=default" alt="Wooseong's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xodn09&layout=compact" alt="Top Langs"/>
-</p>
+
 
 <br>
 
