@@ -12,7 +12,9 @@
 <h3 align="left">🛠️ Skill</h3>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 <div align="center">
-
+  <p align="left">HTML&CSS</p>
+  <p align="left">JavaScript</p>
+  <p align="left">React</p>
 </div>
 
 <br>
@@ -37,8 +39,8 @@
 <br>
 
 
-**[The Last Heir](https://github.com/Team-TheLastHeir)**  
-This Project is a narrative-oriented log-like action RPG game.
+**[Slik]([https://github.com/Slik](https://github.com/Slik-Underduck))**  
+This project is a platform created to manage late-night self-study sessions at schools.
 Click to check it out!
 
 ---
